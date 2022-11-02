@@ -62,7 +62,7 @@ public class TestConcesionaria {
 		HotCar.listarVehiculos();
 		
 		assertEquals(cantidadDeVehiculosEsperados,cantidadDeVehiculosObtenidos);
-		
+		System.out.println("Hola");
 		
 	}
 	
