@@ -8,7 +8,7 @@ public  class Vehiculo implements Comparable<Vehiculo> {
 	private Integer año;
 	private String marca;
 	private Integer precio;
-	private boolean vehiculoApagado;
+	
 	
 	
 	public Vehiculo(String patente, Integer año, String marca, Integer precio) {
